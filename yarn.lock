@@ -24,12 +24,6 @@
   version "0.7.0"
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.7.0.tgz#9a06f4f137ee84d7df0460c1fdb1135ffa6c50fd"
 
-"@types/ember-data@^2.14.10":
-  version "2.14.10"
-  resolved "https://registry.yarnpkg.com/@types/ember-data/-/ember-data-2.14.10.tgz#0bfd4587945d2fb503837accf41cf0bd8d4346e6"
-  dependencies:
-    "@types/rsvp" "*"
-
 "@types/ember-test-helpers@^0.7.1":
   version "0.7.1"
   resolved "https://registry.yarnpkg.com/@types/ember-test-helpers/-/ember-test-helpers-0.7.1.tgz#14b9f132e9c60c2dfaf7a10ace937bfb7157fb26"

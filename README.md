@@ -1,7 +1,7 @@
 ember-promise-utils
 ==============================================================================
 
-[Short description of the addon.]
+Some useful utility functions to work with Ember.RSVP promises.
 
 Installation
 ------------------------------------------------------------------------------
