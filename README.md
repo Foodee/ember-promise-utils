@@ -1,24 +1,22 @@
 ember-promise-utils
 ==============================================================================
+[![Build Status](https://travis-ci.org/championswimmer/ember-promise-utils.svg?branch=master)](https://travis-ci.org/championswimmer/ember-promise-utils)
+[![codecov](https://codecov.io/gh/championswimmer/ember-promise-utils/branch/master/graph/badge.svg)](https://codecov.io/gh/championswimmer/ember-promise-utils)
 
 Some useful utility functions to work with Ember.RSVP promises.
 
-Installation
-------------------------------------------------------------------------------
+## Installation
 
-```
+```shell
 ember install ember-promise-utils
 ```
 
+## Usage
 
-Usage
-------------------------------------------------------------------------------
 
 [Longer description of how to use the addon in apps.]
 
-
-Contributing
-------------------------------------------------------------------------------
+## Contributing
 
 ### Installation
 
