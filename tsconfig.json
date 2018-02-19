@@ -15,6 +15,7 @@
         "tests/*"
       ],
       "dummy/*": [
+        "app/*",
         "tests/dummy/app/*"
       ],
       "ember-promise-utils": [
