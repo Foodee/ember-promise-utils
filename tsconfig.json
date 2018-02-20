@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "es2017",
+    "target": "es2015",
     "allowJs": true,
     "moduleResolution": "node",
     "allowSyntheticDefaultImports": true,
@@ -9,7 +9,7 @@
     "noEmit": true,
     "sourceMap": true,
     "baseUrl": ".",
-    "module": "es6",
+    "module": "es2015",
     "paths": {
       "dummy/tests/*": [
         "tests/*"
