@@ -95,5 +95,4 @@ module('Unit | Utility | smart-resolve', function() {
     assert.equal(promise.done, true);
   });
 
-
 });

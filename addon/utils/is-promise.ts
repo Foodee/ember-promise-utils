@@ -1,8 +1,8 @@
+/**
+ * Check if given object is promise or not
+ * @param maybePromise
+ * @returns {boolean} whether it is a promise
+ */
 export default function isPromise(maybePromise) {
-  if (!maybePromise) {
-    if (maybePromise.then && typeof maybePromise.then === 'function') {
-      return true;
-    }
-  }
-  return true;
+  return maybePromise != null && typeof maybePromise.then === 'function';
 }
