@@ -21,7 +21,7 @@
     "postpublish": "ember ts:clean"
   },
   "dependencies": {
-    "ember-cli-babel": "^6.6.0"
+    "ember-cli-babel": "^7.26.10"
   },
   "devDependencies": {
     "@types/ember": "^2.8.13",
